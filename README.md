@@ -1,4 +1,4 @@
-(Hello guys. This is my firts git. I wanted to create a code to help me when i need to make a desicion. Then i create this with using gpt-4. I tried it an booom. Answers were so amazing. First i tried for my business problems. Then i tried my marriage issues. It is mirroring yourself and giving you solutions and tasks. Please try it. And don't judge me please. I am just a little man not to have an ability to develop a code.)
+(Hello guys. This is my first git. I wanted to create a code to help me when i need to make a desicion. Then i create this with using gpt-4. I tried it an booom. Answers were so amazing. First i tried for my business problems. Then i tried my marriage issues. It is mirroring yourself and giving you solutions and tasks. Please try it. And don't judge me please. I am just a little man not to have an ability to develop a code.)
 
 # DesicionGPT
 An experimental Python script to help users analyze and solve problems using the Observe, Orient, Decide, and Act (OODA) loop. 
